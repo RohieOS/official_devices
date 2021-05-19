@@ -45,6 +45,7 @@ Support this project by donating [URL="http://paypal.me/manish4586"]here[/URL]!
 [*][b]Security patch level:[/b] April 2021
 [*][b]Build author/Device Maintainer:[/b] [url=https://forum.xda-developers.com/m/manish4586.7426592]Manish4586[/url]
 [*][b]Device Source code:[/b] [url=https://https://github.com/xiaomi-sdm660]Device Tree[/url]
+[*][b]Kernel Source code:[/b] [url=https://https://github.com/username/msm-kernel]KernelTree[/url]
 [*][b]Source code:[/b] [url=https://github.com/RohieOS]https://github.com/RohieOS[/url]
 [*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/m/manish4586.7426592]Manish4586[/url]
 [/list][/SIZE][/LEFT]
