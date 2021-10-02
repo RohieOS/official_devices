@@ -1,6 +1,6 @@
 
 [CENTER]
-[img]https://i.imgur.com/bgk8Ql0.png[/img]
+[img]https://raw.githubusercontent.com/RohieOS/manifest/11/banner.jpg[/img]
 [SIZE="5"][b][color=#1a73e8]RohieOS for DeviceName [codename][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#1a73e8]What is this?[/color][/b][/SIZE]
